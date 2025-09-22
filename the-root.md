@@ -11,6 +11,7 @@ hacker@paths~the-root:~$ /pwn
 BOOM!!!
 Here is your flag:
 pwn.college{UdjJPvIRHSu-V7-pf8-1I21An0a.QX4cTO0wCOyAzNzEzW}
+hacker@paths~the-root:~$
 ```
 
 ## What I learned
@@ -18,3 +19,4 @@ I've learnt that a filesystem starts at `/` which consists of many other directo
 
 ## References 
 Add any references or videos u used while solving the challenge.
+
