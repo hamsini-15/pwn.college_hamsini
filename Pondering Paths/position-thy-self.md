@@ -24,4 +24,4 @@ hacker@paths~position-thy-self:/usr/share/doc/fontconfig$
 In this task I learnt the importance of **current directory** in Linux. Commands and programs run differently based on the directory selected. Therefore making it important to ensure the correct directory is sued to avoid errors. The `cd` command allows me to change the directory based on the requirments and the prompt (`~`,`/`) shows which directory I am in currently
 
 ## References 
-Add any references or videos u used while solving the challenge.
+None.
