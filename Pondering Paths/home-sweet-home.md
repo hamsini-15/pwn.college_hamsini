@@ -20,7 +20,7 @@ hacker@paths~home-sweet-home:~$
 ```
 
 ## What I learned
-The ~ symbol is shorthand for the home directory and expands to /home/username. Absolute paths are required when working with filesystem arguments in challenges like this, even if a path looks short (~), Bash expands it correctly behind the scenes. Using shell expansions can help meet strict constraints like character limits.
+The `~` symbol is shorthand for the home directory and expands to `/home/username`. Absolute paths are required when working with filesystem arguments in challenges like this, even if a path looks short (`~`), Bash expands it correctly behind the scenes. Using shell expansions can help meet strict constraints like character limits.
 
 ## References 
 None.
